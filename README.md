@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thewems&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thewems&theme=onedark)]
 
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Thewems&theme=xcode" /> </div>
