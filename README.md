@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=wemsx" /> </div>
+<!--<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=wemsx" /> </div>-->
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wemsx&theme=onedark)]
