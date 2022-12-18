@@ -2,7 +2,7 @@
 <!--<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=wemsx" /> </div>-->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wemsx&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=wemsx&theme=onedark)
 
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=wemsx&theme=xcode" /> </div>
